@@ -1,2 +1,2 @@
-# gustavozertuche.html
+# gustavozertuche.personal-homepage
 Personal project to be used as my personal website in the future.  Any suggestions are helpful and appreciated. 
